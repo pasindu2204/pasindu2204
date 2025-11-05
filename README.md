@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Amarasingha</h1>
+
 <h3 align="center">🚀 Full-Stack Developer| Passionate About Building Scalable Web Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindu2204&label=Profile%20views&color=0e75b6&style=flat" alt="pasindu2204" /> </p>
@@ -12,6 +13,17 @@
 - 📫 How to reach me **chamipasindu2204@gmail.com**
 
 - ⚡ Fun fact **Heeran**
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/pasindu2204">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pasindu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pasindu2204&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindu2204" alt="pasindu2204" /></a> </p>
 
+ <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 - 🔭 I’m currently working on [Community-project-Lovelytech](https://github.com/KKShaminda/Community-project-Lovelytech.git)
 
 - 🌱 I’m currently learning **React-native | Django**
@@ -13,6 +15,8 @@
 - 📫 How to reach me **chamipasindu2204@gmail.com**
 
 - ⚡ Fun fact **Heeran**
+
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
